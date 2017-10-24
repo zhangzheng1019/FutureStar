@@ -131,7 +131,7 @@ a { color: #333; text-decoration: none; }
 .select-hd { font-size: 20px; color: #15a6ee; font-weight: bold; line-height: 50px; margin-bottom: 20px; }
 .select-group .select-title { font-size: 20px; line-height: 32px; }
 .select-group { position: absolute; margin-top: 90px; }
-.select-group .item { float: left; width: 190px; margin-right: 30px; position: relative; }
+.select-group .item { float: left; width: 190px; margin-right: 10px; position: relative; }
 .select-group .item select { width: 150px; padding: 10px; font-size: 16px; text-align: center; border-radius: 10px; appearance: none; -moz-appearance: none; -webkit-appearance: none; }
 .select-result .item { display: none; width: 100px; padding: 10px; margin: 0 12px; font-size: 20px; color: #fff; background: #15a6ee; border-radius: 40px; }
 .select-drop { display: inline-block; width: 27px; height: 16px; background: url(../img/drop.png) no-repeat; margin-left: -32px; }
